@@ -1,6 +1,7 @@
 # Device Log Summarizer
 
 CLI tool that summarizes device telemetry from a CSV file.
+First of all you have to fill real data in device telemetry and then you can see the real output.
 
 ## Setup
 
